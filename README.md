@@ -1,1 +1,1 @@
-# Task-2
+Created impactful data visualizations with a focus on business insights by selecting appropriate chart types, minimizing clutter and color overuse, highlighting key takeaways, adding contextual explanations, and designing a summary storyboard for clear presentation.
